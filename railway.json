@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "MONGO_INITDB_ROOT_USERNAME": "admin",
+      "MONGO_INITDB_ROOT_PASSWORD": "nmKVGPrCfzzvMaT"
+    }
+  }
+}
